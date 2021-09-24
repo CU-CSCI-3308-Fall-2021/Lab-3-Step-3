@@ -6,6 +6,6 @@
 ## Alex Schwartz
 ## Zhixing Yao
 ## Majed Zamzami
-## Abdulrahman baflah
+## Abdulrahman Baflah
 
 >>>>>>> main
