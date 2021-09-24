@@ -5,4 +5,4 @@
 ## Alex Schwartz
 ## Zhixing Yao
 ## Abdul Baflah
-## MAjed Zamzami
+## Majed Zamzami
